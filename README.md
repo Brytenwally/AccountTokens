@@ -6,7 +6,7 @@ An Eluna Lua script for AzerothCore that gates specific Playerbot commands (`aut
 
 * **AzerothCore** (WOTLK 3.3.5a)
 * **mod-playerbots**
-* **mod-eluna** (Acore Lua Engine)
+* **mod-ale** 
 
 ## Setup
 
