@@ -20,7 +20,7 @@ Restart the server or type .reload ale.
 
 
 
-Configuration
+### Configuration
 Modify the CONFIG block at the top of the script to change values:
 
 LevelsPerToken: Level intervals required to earn tokens (e.g., every 10 levels).
