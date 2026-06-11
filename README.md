@@ -31,6 +31,6 @@ AutogearTokenCost / MaintenanceTokenCost: Tokens deducted per command use.
 
 In-Game Usage:
 
-Type tokens or status in a bot whisper or party chat to check your account balance.
+Type "tokens"  in party chat to check your account balance.
 
 Commands are automatically intercepted and will block if you do not have enough tokens.
